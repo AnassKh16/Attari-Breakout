@@ -1,8 +1,6 @@
-# Attari-Breakout
 <div align="center">
 
-<!-- 🔧 Replace this with a banner/marquee GIF of your title screen or gameplay -->
-<img src="assets/breakout_marquee.gif" alt="Attari Breakout Marquee" width="700">
+<img src="assets/breakout_title.gif" alt="Attari Breakout Title Screen" width="640">
 
 </div>
 
@@ -53,17 +51,46 @@ Built as a COAL (Computer Organization & Assembly Language) final lab project, t
 
 <div align="center">
 
-<!-- 🔧 Optional: readme-typing-svg animated tagline, no asset needed -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=16&duration=3000&pause=500&color=F7C600&center=true&vCenter=true&width=600&lines=Bounce.+Break.+Survive...;Catch+the+powerups...;Avoid+the+curses...;Beat+the+clock!" alt="Typing SVG">
 
 </div>
 
 ---
 
+## 🧱 Gameplay
+
 <div align="center">
 
-<!-- 🔧 Replace with a GIF of the ball breaking bricks / bomb ball exploding -->
 <img src="assets/breakout_gameplay.gif" alt="Breakout Gameplay" width="600">
+
+<br>
+<sub>Paddle-and-ball physics with multi-hit bricks chipping away row by row</sub>
+
+</div>
+
+---
+
+## ⚡ Power-Ups & Curses in Action
+
+<div align="center">
+
+<img src="assets/breakout_powerup.gif" alt="Power-up and curse drop" width="600">
+
+<br>
+<sub>Letters fall from broken bricks — catch the green ones, dodge the red curses</sub>
+
+</div>
+
+---
+
+## ⏸️ Pause Anytime
+
+<div align="center">
+
+<img src="assets/breakout_pause.gif" alt="Pause Feature" width="600">
+
+<br>
+<sub>Hit <code>P</code> to freeze the action mid-game — notice the shield's yellow border kick in right after</sub>
 
 </div>
 
@@ -81,17 +108,6 @@ Built as a COAL (Computer Organization & Assembly Language) final lab project, t
 4. Press **P** to pause, **ESC** to return to the menu.
 5. Destroy all 40 bricks before the timer hits **0:00** — and don't lose all your lives.
 6. Catch green power-up letters, dodge red curse letters.
-
----
-
-## 📸 Gameplay Preview
-
-<div align="center">
-
-<!-- 🔧 Replace with a GIF of the main menu / customization screen -->
-<img src="assets/breakout_menu.gif" alt="Main Menu Preview" width="600">
-
-</div>
 
 ---
 
@@ -156,8 +172,7 @@ breakout.com
 
 <div align="center">
 
-<!-- 🔧 Optional closing GIF — credits / thanks -->
-<img src="assets/thanks.gif" alt="Thanks for playing" width="400">
+<img src="assets/breakout_gameover.gif" alt="Game Over and High Score" width="600">
 
 **Made with 🧱, ☕, and a lot of NASM debugging**
 
